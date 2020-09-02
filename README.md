@@ -4,7 +4,7 @@ The codes in this directory can be used to reproduce the results in the paper
 by
 # Anaïs Andrillon, Sylvie Chevret, Shing M Lee, and Lucie Biard (2020)
 
-In our paper, we developped the survival-CRM (Surv-CRM) design building on the CRM dose-finding design, but using survival models for right-censored DLT endpoints allowing the outcomes to be delayed. To handle possible informative censoring, we also proposed the informative survival-CRM (iSurv-CRM), that extends the Surv-CRM by considering a competing-risk model. In addition, we developed a nonparametric benchmark approach for evaluation of dose-finding designs with right censored time-to-event endpoints. 
+In our paper, we developped the survival-Continual Reassessment Method (Surv-CRM) design building on the CRM dose-finding design, but using survival models for right-censored DLT endpoints allowing the outcomes to be delayed. To handle possible informative censoring, we also proposed the informative survival-CRM (iSurv-CRM), that extends the Surv-CRM by considering a competing-risk model. In addition, we developed a nonparametric benchmark approach for evaluation of dose-finding designs with right censored time-to-event endpoints. 
 
 This work was motivated by the need for specific methods for dose-finding with novel anti-cancer agents, such as targeted therapies or immunotherapies, which often require prolonged observation windows and result in some patients who do not experience a DLT but have not yet reached the end of the window. Moreover, when the observation window is long relatively to the underlying disease process, the observation of toxicity may be precluded by trial discontinuation related to lack of efficacy of the drug (due to death, progression, withdrawal, etc.).
  
