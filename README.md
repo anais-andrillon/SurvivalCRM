@@ -91,3 +91,23 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+
+
+</div>
+</div>
+<div id="references" class="section level1 unnumbered">
+<h1>References</h1>
+<div id="refs" class="references">
+<div id="ref-Chiuzan2017">
+<p>Chiuzan, Cody, Jonathan Shtaynberger, Gulam A. Manji, Jimmy K. Duong, Gary K. Schwartz, Anastasia Ivanova, and Shing M. Lee. 2017. “Dose-Finding Designs for Trials of Molecularly Targeted Agents and Immunotherapies.” <em>Journal of Biopharmaceutical Statistics</em> 27 (3): 477–94. <a href="https://doi.org/10.1080/10543406.2017.1289952">https://doi.org/10.1080/10543406.2017.1289952</a>.</p>
+</div>
+<div id="ref-Eisenhauer2009">
+<p>Eisenhauer, E. a., P. Therasse, J. Bogaerts, L. H. Schwartz, D. Sargent, R. Ford, J. Dancey, et al. 2009. “New Response Evaluation Criteria in Solid Tumours: Revised RECIST Guideline (Version 1.1).” <em>European Journal of Cancer</em> 45 (2): 228–47. <a href="https://doi.org/10.1016/j.ejca.2008.10.026">https://doi.org/10.1016/j.ejca.2008.10.026</a>.</p>
+</div>
+<div id="ref-Rogatko2007">
+<p>Rogatko, André, David Schoeneck, William Jonas, Mourad Tighiouart, Fadlo R. Khuri, and Alan Porter. 2007. “Translation of Innovative Designs into Phase I Trials.” <em>Journal of Clinical Oncology</em> 25 (31): 4982–6. <a href="https://doi.org/10.1200/JCO.2007.12.1012">https://doi.org/10.1200/JCO.2007.12.1012</a>.</p>
+</div>
+</div>
+</div>
+
