@@ -11,7 +11,7 @@ This work was motivated by the need for specific methods for dose-finding with n
 ## Instructions  
 The file "MainFunctions.R" provides the main functions to implement the execute the Surv-CRM, the iSurv-CRM and the nonparametric benchmark approach. This code should be run first as is.
 
-The file "Table1Table2Table3.R" reproduces the results to reproduce the results of Tables 1, 2, and 3 in the paper which demonstrate the performance of the proposed designs.
+The file "Table1Table2Table3.R" reproduces the results of Tables 1, 2, and 3 in the paper which demonstrate the performance of the proposed designs.
 
 ## License
 
