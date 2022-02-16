@@ -9,7 +9,7 @@ In our paper, we developped the survival-Continual Reassessment Method (Surv-CRM
 This work was motivated by the need for specific methods for dose-finding with novel anti-cancer agents, such as targeted therapies or immunotherapies, which often require prolonged observation windows and result in some patients who do not experience a DLT but have not yet reached the end of the window. Moreover, when the observation window is long relatively to the underlying disease process, the observation of toxicity may be precluded by trial discontinuation related to lack of efficacy of the drug (due to death, progression, withdrawal, etc.).
  
 ## Instructions  
-The file "MainFunctions.R" provides the main functions to implement the execute the Surv-CRM, the iSurv-CRM and the nonparametric benchmark approach. This code should be run first as is.
+The file "MainFunctions.R" provides the main functions to implement the Surv-CRM, the iSurv-CRM and the nonparametric benchmark approach. This code should be run first as is.
 
 The file "Table1Table2Table3.R" reproduces the results of Tables 1, 2, and 3 in the paper which demonstrate the performance of the proposed designs.
 
