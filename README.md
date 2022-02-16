@@ -12,7 +12,7 @@ This work was motivated by the need for specific methods for dose-finding with n
 
 This project is licensed under the GPL-3.0 License 
 
-## References
+## Reference
 Andrillon A, Chevret S, Lee SM, Biard L. Dose-finding design and benchmark for a right censored endpoint. J Biopharm Stat. 2020 Nov 1;30(6):948-963. doi: . Epub 2020 Nov 23. PMID: 33222634. <a href="https://doi.org/10.1080/10543406.2020.1821702">https://doi.org/10.1080/10543406.2020.1821702</a>
 
 
