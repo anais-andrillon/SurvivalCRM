@@ -12,8 +12,6 @@
 install.packages("pacman")
 pacman::p_load(dplyr, dfcrm, survival)
 
-
-
 # -------------------------------------------------------------------------------------------
 #' getprior_exp 
 #' Returns a vector of initial guesses of toxicity probabilities associated to the doses 
@@ -185,8 +183,6 @@ num_tox <- function(beta, event, dose_level, xref,time){beta*denom_tox(beta, eve
 
 
 
-
-
 # -------------------------------------------------------------------------------------------
 #' likelihood_disc_exp 
 #' Survival likelihood for discontinuation
@@ -208,8 +204,6 @@ likelihood_disc_exp <- function(beta, event, dose_level, xref,time){
 
 denom_disc <- function(beta, event, dose_level, xref,time){ likelihood_disc_exp(beta, event, dose_level, xref,time)*dnorm(beta, mean=0, sd=sqrt(1.34)) }
 num_disc <- function(beta, event, dose_level, xref,time){beta*denom_disc(beta, event, dose_level, xref,time)}
-
-
 
 
 # -------------------------------------------------------------------------------------------
@@ -314,9 +308,6 @@ titecrm_nextdose <- function(xref, Tox, weights,skeleton){
               constante=constante,
               CI_temp=CI_temp))
 }
-
-
-
 
 
 # ----------------------------------------------------------------------------------------------
@@ -443,7 +434,6 @@ survcrm_sim <- function(N,scenario,n,target,tstar,dose_init,rate,accrual,hazard,
   ))
   
 }     
-
 
 
 
@@ -585,7 +575,7 @@ isurvcrm_sim <- function(N,scenario1,scenario2,n,target,tstar,dose_init,rate,acc
 }     
 
 
-
+# ----------------------------------------------------------------------------------------------
 #' bmk_sim :       
 #' Generate simulation replicates of phase I trial using the proposal benchmark
 #' 
@@ -805,8 +795,6 @@ titecrm_sim <- function(N,scenario,n,target,tstar,dose_init,rate,accrual,hazard)
   ))
   
 }     
-
-
 
 
 
